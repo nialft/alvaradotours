@@ -137,7 +137,7 @@ export default function SobreNosotros() {
                 name: "Bryan López",
                 location: "Alajuela, Costa Rica",
                 quote:
-                  "Visitamos Costa Rica por primera vez y gracias a Tours Alvarado pudimos conocer lugares maravillosos fuera de las rutas turísticas tradicionales.",
+                  "Visitamos Alvarado por primera vez y gracias a Tours Alvarado pudimos conocer lugares maravillosos fuera de las rutas turísticas tradicionales.",
               },
               {
                 name: "Marta González",
