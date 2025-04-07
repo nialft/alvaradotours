@@ -32,11 +32,10 @@ export default function SobreNosotros() {
                 Nuestra Historia
               </h2>
               <p className="text-gray-600 mb-4">
-                somos un grupo de estudiantes del curso Planificación del
+                Somos un grupo de estudiantes del curso Planificación del
                 Desarrollo Turístico, dirigidos por la MPM. Chantal Andrea
                 Fernández Llantén, de la UIA. Estamos para servirle, si le
-                interesa algún tour, sírvase en llenar el siguiente formulario
-                de contacto y un asesor se comunicará con usted.
+                interesa algún tour.
               </p>
 
               <p className="text-gray-600">
