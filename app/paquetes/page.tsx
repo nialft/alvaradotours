@@ -12,7 +12,7 @@ export default function Paquetes() {
       name: "Sabores y Tradición de Pacayas",
       description:
         "Un recorrido rural, educativo y gastronómico por Pacayas, ideal para familias, estudiantes, amantes de la agricultura y la cultura local.",
-      price: "₡65,000",
+      price: "$59.99",
       duration: "1 día",
       maxPeople: "15 personas",
       image: "/resources/img/fotoPacayasPaQ.png",
@@ -40,7 +40,7 @@ export default function Paquetes() {
       name: "Aventura y Fe en Capellades",
       description:
         "Una experiencia de naturaleza, religiosa y gastronómica, ideal para turistas religiosos, senderistas, fotógrafos y grupos culturales.",
-      price: "₡70,000",
+      price: "$59.99",
       duration: "1 día",
       maxPeople: "12 personas",
       image: "/resources/img/CapelladesPaqTour.png",
@@ -68,7 +68,7 @@ export default function Paquetes() {
       name: "Ruta Gastronómica en Cervantes",
       description:
         "Una experiencia gastronómica y cultural de medio día, ideal para foodies, parejas, adultos mayores y pequeños grupos.",
-      price: "₡45,000",
+      price: "$49.99",
       duration: "Medio día / tarde",
       maxPeople: "10 personas",
       image: "/resources/img/CervantesPaqTour.png",
@@ -93,7 +93,7 @@ export default function Paquetes() {
       name: "Experiencia Viva – Cultura, Naturaleza y Religión",
       description:
         "Un tour festivo, natural y espiritual, ideal para visitantes culturales, religiosos, adultos mayores y escuelas.",
-      price: "₡75,000",
+      price: "$69.99",
       duration: "1 día",
       maxPeople: "15 personas",
       image: "/resources/img/ExpVivaCultNatReliPAQ.png",
